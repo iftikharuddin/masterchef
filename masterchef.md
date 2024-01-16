@@ -8,6 +8,8 @@
 - 🤑 Build Your Own DeFi Staking dApp - P2 - Masterchef Contract Storage
 - 🤑 Build Your Own Defi Staking dApp - P3 - Masterchef Contract Add Staking Pools
     - adding pools to smartcontracts
+    - do check for duplicate check in adding pool and updating?
+    - multiplier should be mutable
 - 🤑 Build Your Own Defi Staking dApp - P4 - Masterchef Mint Reward Tokens
 
 
