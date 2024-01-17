@@ -11,7 +11,14 @@
     - do check for duplicate check in adding pool and updating?
     - multiplier should be mutable
 - 🤑 Build Your Own Defi Staking dApp - P4 - Masterchef Mint Reward Tokens
-
+    - lastRewardBlock - the last reward block value is that block number that we are going to store in the msg of smartcontract
+    - everytime there is staking, unstake 
+    - multiplier = (block.number - lastRewardPerBlock) * bonus_multiplier
+    - totalReward = multiplier * tokenPerBlock * poolAllocation / totalAllocation
+    - if you want to give some rewards to dev or anyone it will be like this
+    - devfee = totalReward / 10 (the percentage of rewards dev will get)
+    
+- Now let's calculate the rewards per share
 
 
     
