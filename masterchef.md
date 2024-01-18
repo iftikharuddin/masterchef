@@ -24,7 +24,12 @@
 
 - 🤑 Build Your Own DeFi Staking dApp - P5 - Stake - Unstake - Masterchef Done!
     - emergency withdraw
-    - 
+    - allocation Points affects all the pool
+    - always make update pool gas optimise, cuz when it's called in mass updates might cause issues
+    - auto compound, adding stake amount with pending rewards
+    - yo yo
+- 🤑 Build Your Own Defi Staking dApp - Web3 Staking Farm Front-End - Final Vid!
+
 
 
     
